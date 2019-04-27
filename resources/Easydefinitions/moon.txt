@@ -1,0 +1,15 @@
+START_LEVEL
+level_name:Space Invanders
+ball_velocities:45,500
+background:color(RGB(0,0,0))
+paddle_speed:650
+paddle_width:100
+block_definitions:definitions/moon_block_definitions.txt
+blocks_start_x:2000
+blocks_start_y:80
+row_height:100
+num_blocks:1
+START_BLOCKS
+l
+END_BLOCKS
+END_LEVEL

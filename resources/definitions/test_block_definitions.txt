@@ -1,0 +1,10 @@
+# default values for fun blocks
+default height:60 width:80
+
+# block definitions
+bdef symbol:p hit_points:2 fill-1:image(block_images/ted_block_1_80_60.jpg) fill-2:image(block_images/ted_block_2_80_60.jpg) stroke:color(black)
+bdef symbol:v height:240 width:15 hit_points:5 fill-1:color(RGB(139,117,0)) fill-2:color(RGB(205,173,0)) fill-3:color(RGB(238,201,0)) fill-4:color(RGB(255,215,0)) fill-5:color(RGB(255,255,0))
+bdef symbol:h height:15 width:750 hit_points:10 fill-1:color(RGB(139,117,0)) fill-3:color(RGB(205,173,0)) fill-5:color(RGB(238,201,0)) fill-7:color(RGB(255,215,0)) fill-9:color(RGB(255,255,0))
+
+# spacers definitions
+sdef symbol:- width:15

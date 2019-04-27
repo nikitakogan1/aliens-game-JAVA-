@@ -1,0 +1,3 @@
+a:Easy definitions/directHit.txt,moon.txt;
+b:Medium definitions/ocean.txt,desert.txt
+c:Hard definitions/arrows.txt,finalHourV2.txt,jungle.txt
